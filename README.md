@@ -1,3 +1,7 @@
+
+<p align="center">
+  <img src="https://github.com/rajkumarojhaa/rajkumarojhaa/blob/main/github-header-image%20(2).png" alt="logo" width="100%" />
+</p>
 <h1 align="center">Hi 👋, I'm Rajkumar Ojha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
